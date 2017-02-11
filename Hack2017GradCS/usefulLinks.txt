@@ -5,6 +5,9 @@ Q&A:
 http://datascience.stackexchange.com/questions/6547/open-source-anomaly-detection-in-python/6549#6549
 
 
+source code for Kalman Filter in C:
+http://alumni.media.mit.edu/~wad/mas864/proj_src.html
 
 C Code Generation for a MATLAB Kalman Filtering Algorithm:
 https://www.mathworks.com/help/coder/examples/c-code-generation-for-a-matlab-kalman-filtering-algorithm.html?prodcode=ML
+
