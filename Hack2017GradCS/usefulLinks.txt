@@ -1,3 +1,5 @@
-Anamoly Detection Links:
+## Anamoly Detection Links:
 https://aqibsaeed.github.io/2016-07-17-anomaly-detection/
 http://scipy-cookbook.readthedocs.io/items/KalmanFiltering.html
+Q&A:
+http://datascience.stackexchange.com/questions/6547/open-source-anomaly-detection-in-python/6549#6549
