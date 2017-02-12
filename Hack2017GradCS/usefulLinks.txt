@@ -3,7 +3,7 @@ https://aqibsaeed.github.io/2016-07-17-anomaly-detection/
 http://scipy-cookbook.readthedocs.io/items/KalmanFiltering.html
 Q&A:
 http://datascience.stackexchange.com/questions/6547/open-source-anomaly-detection-in-python/6549#6549
-
+http://air.ug/~jquinn/software/lsanomaly.html
 
 source code for Kalman Filter in C:
 http://alumni.media.mit.edu/~wad/mas864/proj_src.html
